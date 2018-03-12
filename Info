@@ -1,0 +1,11 @@
+1*******
+Dziedziczenie
+2*******
+Univ - agregacja (klasa zawierająca inne niezależne klasy)
+Library - kompozycja (klasa zawierająca inne całkowicie zależne klasy od klasy agregującej)
+3*******
+Multiplicity Liczebność
+5 - stała ilość
+0..1 - przedział
+1..* - dowolna ilość
+1..* --obiekt - dowolna ilość i dowolna implementacja (tablica, lista vector itd...)
